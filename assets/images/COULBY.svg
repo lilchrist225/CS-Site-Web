@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#D1D1D1;}
+	.st2{fill:#E8C05D;}
+	.st3{fill:#01698E;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:68px;}
+	.st6{font-size:53px;}
+	.st7{font-size:48px;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="762.6999" y1="-382.4444" x2="1164.2823" y2="1495.089">
+		<stop  offset="0.103" style="stop-color:#01698E"/>
+		<stop  offset="0.412" style="stop-color:#065D87"/>
+		<stop  offset="0.976" style="stop-color:#123C74"/>
+		<stop  offset="1" style="stop-color:#133A73"/>
+	</linearGradient>
+	<rect class="st0" width="1920" height="1080"/>
+</g>
+<g>
+	<path class="st1" d="M701,712c0,80.08-64.92,145-145,145s-145-64.92-145-145s64.92-145,145-145c16.67,0,32.68,2.81,47.59,7.99
+		C660.3,594.69,701,648.59,701,712z"/>
+</g>
+<g>
+	<circle class="st1" cx="556" cy="237" r="145"/>
+</g>
+<g>
+	<circle class="st1" cx="1033" cy="235" r="145"/>
+</g>
+<g>
+	<circle class="st1" cx="1033" cy="711" r="145"/>
+</g>
+<g>
+	<circle class="st1" cx="1605" cy="531" r="199"/>
+</g>
+<path class="st2" d="M560,712l117.93-79.55c0,0,23.56,38.24,22.65,75.89L560,712z"/>
+<path class="st2" d="M560,237l117.93-79.55c0,0,23.56,38.24,22.65,75.89L560,237z"/>
+<path class="st2" d="M1032.89,712.23l121.17-81.73c0,0,24.2,39.29,23.27,77.98L1032.89,712.23z"/>
+<path class="st2" d="M1605,540l166.92-117.6c0,0,33.06,56.12,31.58,111.5L1605,540z"/>
+<path class="st2" d="M1034,237l121.02-79.28c0,0,24.31,38.31,23.47,75.97L1034,237z"/>
+<g>
+	<circle class="st3" cx="556" cy="712" r="110"/>
+</g>
+<g>
+	<circle class="st3" cx="1605" cy="531" r="150.97"/>
+</g>
+<g>
+	<circle class="st3" cx="1033" cy="711" r="110"/>
+</g>
+<g>
+	<circle class="st3" cx="1033" cy="235" r="110"/>
+</g>
+<g>
+	<circle class="st3" cx="556" cy="237" r="110"/>
+</g>
+<text transform="matrix(1 0 0 1 512.52 261.2402)" class="st2 st4 st5">10</text>
+<text transform="matrix(1 0 0 1 975.48 251.7202)" class="st2 st4 st5">&gt;15</text>
+<text transform="matrix(1 0 0 1 972.7998 726.7998)" class="st2 st4 st5">&gt;25</text>
+<text transform="matrix(1 0 0 1 540.7598 737.1201)" class="st2 st4 st5">5</text>
+<text transform="matrix(1 0 0 1 1472.04 548.0801)" class="st2 st4 st6">&gt;50 000 000</text>
+<text transform="matrix(1 0 0 1 951.7998 929.6396)" class="st2 st4 st6">CLIENTS</text>
+<text transform="matrix(1 0 0 1 954.2002 439.5195)" class="st2 st4 st6">PROJETS</text>
+<text transform="matrix(1 0 0 1 410.8398 929.2402)" class="st2 st4 st6">FORMATEURS</text>
+<text transform="matrix(1 0 0 1 445.8799 440.4805)" class="st2 st4 st6">SALARIES</text>
+<text transform="matrix(1 0 0 1 1505.04 603.9199)" class="st2 st4 st7">XOF DE CA</text>
+</svg>
