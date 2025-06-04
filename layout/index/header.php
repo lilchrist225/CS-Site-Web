@@ -88,7 +88,7 @@
                                     <li><a class="dropdown-item" href="/cs-site-web/formation.php">Formation</a></li>
                                     <li><a class="dropdown-item" href="/cs-site-web/conseil.php">Conseil</a></li>
                                     <li><a class="dropdown-item" href="/cs-site-web/support.php">Support</a></li>
-                                    <li><a class="dropdown-item" href="/cs-site-web/Integration.php">Intégration</a></li>
+                                    <li><a class="dropdown-item" href="/cs-site-web/integration.php">Intégration</a></li>
                                     <li><a class="dropdown-item" href="/cs-site-web/cloud_service.php">Service Cloud</a></li>
                                 </ul>
                             </li>
@@ -102,7 +102,7 @@
                                                     <ol>
                                                         <li><a href="/cs-site-web/security.php">Sécurité</a></li>
                                                         <li><a href="/cs-site-web/data.php">Données et IA</a></li>
-                                                        <li><a href="/cs-site-web/Modermwork.php">Travail moderne</a></li>
+                                                        <li><a href="/cs-site-web/modermwork.php">Travail moderne</a></li>
                                                         <li><a href="#">Developpement De Logiciels</a></li>
                                                         <li><a href="/cs-site-web/powerplateform.php">Plate-forme De puissance</a></li>
 

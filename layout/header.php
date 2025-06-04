@@ -157,7 +157,7 @@
                                                     <ol>
                                                         <li><a href="/cs-site-web/security.php">Sécurité</a></li>
                                                         <li><a href="/cs-site-web/data.php">Données et IA</a></li>
-                                                        <li><a href="/cs-site-web/Modermwork.php">Travail moderne</a></li>
+                                                        <li><a href="/cs-site-web/modermwork.php">Travail moderne</a></li>
                                                         <li><a href="/cs-site-web/software.php">Developpement De Logiciels</a></li>
                                                         <li><a href="/cs-site-web/powerplateform.php">Plate-forme De puissance</a></li>
 

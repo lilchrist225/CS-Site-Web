@@ -23,16 +23,16 @@
                                                 <div class="col-md-4">
                                                      
                                                     <a class="text-white" href="/cs-site-web/index.php"> Accueil </a> <br>
-                                                    <a class="text-white" href="/cs-site-web/Formation.php"> Formation</a><br>
-                                                    <a class="text-white" href="/cs-site-web/Conseil.php">Conseil</a><br>
-                                                    <a class="text-white" href="/cs-site-web/Support.php"> Support </a><br>
+                                                    <a class="text-white" href="/cs-site-web/formation.php"> Formation</a><br>
+                                                    <a class="text-white" href="/cs-site-web/conseil.php">Conseil</a><br>
+                                                    <a class="text-white" href="/cs-site-web/support.php"> Support </a><br>
                                                     
 
                                                 </div><!-- end col -->
         
                                                 <div class="col-md-4">
-                                                    <a class="text-white" href="/cs-site-web/Integration.php"> Intégration </a><br>
-                                                    <a class="text-white" href="/cs-site-web/Cloud_service.php"> Service Cloud </a><br>
+                                                    <a class="text-white" href="/cs-site-web/integration.php"> Intégration </a><br>
+                                                    <a class="text-white" href="/cs-site-web/cloud_service.php"> Service Cloud </a><br>
                                                     <a class="text-white" href="/cs-site-web/security.php"> Sécurité </a><br>
                                                     <a class="text-white" href="/cs-site-web/data.php"> Données et IA</a><br>
                                                     
