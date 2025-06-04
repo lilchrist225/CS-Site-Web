@@ -71,7 +71,7 @@
                     <img src="assets/images/1664274835135-removebg-preview.jpeg" alt="">
                     <div class="collapse navbar-collapse" id="navbarTopMenu">
                         <ul class="navbar-nav mr-auto mt-2 mt-md-0">
-                            <li><a class="nav-link" href="/site_web/index.php">Accueil</a></li>
+                            <li><a class="nav-link" href="/CS-Site-Web/index.php">Accueil</a></li>
                             <li class="nav-item dropdown has-submenu">
                                 <a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Prestation de Services</a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdown05">
@@ -85,11 +85,11 @@
                                         </ul>
                                     </li>
                                   -->
-                                    <li><a class="dropdown-item" href="/site_web/formation.php">Formation</a></li>
-                                    <li><a class="dropdown-item" href="/site_web/conseil.php">Conseil</a></li>
-                                    <li><a class="dropdown-item" href="/site_web/support.php">Support</a></li>
-                                    <li><a class="dropdown-item" href="/site_web/Integration.php">Intégration</a></li>
-                                    <li><a class="dropdown-item" href="/site_web/cloud_service.php">Service Cloud</a></li>
+                                    <li><a class="dropdown-item" href="/CS-Site-Web/formation.php">Formation</a></li>
+                                    <li><a class="dropdown-item" href="/CS-Site-Web/conseil.php">Conseil</a></li>
+                                    <li><a class="dropdown-item" href="/CS-Site-Web/support.php">Support</a></li>
+                                    <li><a class="dropdown-item" href="/CS-Site-Web/Integration.php">Intégration</a></li>
+                                    <li><a class="dropdown-item" href="/CS-Site-Web/cloud_service.php">Service Cloud</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown yamm-fw nav-item has-submenu">
@@ -100,11 +100,11 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                                 <div class="mega-menu-items">
                                                     <ol>
-                                                        <li><a href="/site_web/security.php">Sécurité</a></li>
-                                                        <li><a href="/site_web/data.php">Données et IA</a></li>
-                                                        <li><a href="/site_web/Modermwork.php">Travail moderne</a></li>
+                                                        <li><a href="/CS-Site-Web/security.php">Sécurité</a></li>
+                                                        <li><a href="/CS-Site-Web/data.php">Données et IA</a></li>
+                                                        <li><a href="/CS-Site-Web/Modermwork.php">Travail moderne</a></li>
                                                         <li><a href="#">Developpement De Logiciels</a></li>
-                                                        <li><a href="/site_web/powerplateform.php">Plate-forme De puissance</a></li>
+                                                        <li><a href="/CS-Site-Web/powerplateform.php">Plate-forme De puissance</a></li>
 
                                                         
                                                     </ol>
@@ -124,7 +124,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a class="nav-link" href="/site_web/about.php">A propos de nous</a></li>
+                            <li><a class="nav-link" href="/CS-Site-Web/about.php">A propos de nous</a></li>
                         </ul>
                         <div class="nav navbar-nav ml-auto hidden-md-down hidden-sm-down hidden-xs-down">
                             <div class="head-social">
