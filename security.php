@@ -30,7 +30,7 @@
                                         <ul class="list-style-three mt-15">
                                             <li>Test De Pénétration</li>
                                             <li>Audit de votre système</li>
-                                            <li>Déploiement de solution Sécurisée</li>
+                                            <li>Déploiement de dolution Sécurisée</li>
                                             <li>Sensibilisation Sur Les Bonnes Pratiques</li>
                                         </ul>
                                     </div>
