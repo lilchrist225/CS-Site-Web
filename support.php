@@ -247,7 +247,7 @@
                                     <input type="text" name="_honey" style="display:none">
                                     <input type="hidden" name="_autoresponse" value="Merci de nous avoir contacté ! Nous vous répondrons dans les plus courts délais.">
                                     <input type="hidden" name="_template" value="table">
-                                    <input type="hidden" name="_next" value="http://localhost/CS-Site-Web/support.php">
+                                    <input type="hidden" name="_next" value="http://localhost/cs-site-web/support.php">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <div class="form-group">
