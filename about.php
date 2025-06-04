@@ -1,5 +1,5 @@
 
-<?php include("layout\header.php"); ?>
+<?php include("layout/header.php"); ?>
 
        <section class="container pt-50">
             <div class="row py-5">
