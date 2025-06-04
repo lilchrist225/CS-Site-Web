@@ -17,7 +17,7 @@
                 <h2 class="page-title text-white">Formation</h2>
                 <p class="text-white">Préparer votre réussite avec Cloud Steroids, source de confiance en matière de services informatiques.</p>
 
-                <a href="assets/images/CLOUD CATALOGUE.pdf" class="theme-btn style-four mb-10">Notre catalogue</a>
+                <a href="#" class="theme-btn style-four mb-10">Notre catalogue</a>
                 <nav aria-label="breadcrumb">
                 </nav>
             </div>
