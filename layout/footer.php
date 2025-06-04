@@ -21,28 +21,28 @@
                                             <div class="row">
                                                 <div class="col-md-4">
                                                      
-                                                    <a class="text-white" href="/cs-site-web/index.php"> Accueil </a> <br>
-                                                    <a class="text-white" href="/cs-site-web/formation.php"> Formation</a><br>
-                                                    <a class="text-white" href="/cs-site-web/conseil.php">Conseil</a><br>
-                                                    <a class="text-white" href="/cs-site-web/support.php"> Support </a><br>
+                                                    <a class="text-white" href="index.php"> Accueil </a> <br>
+                                                    <a class="text-white" href="formation.php"> Formation</a><br>
+                                                    <a class="text-white" href="conseil.php">Conseil</a><br>
+                                                    <a class="text-white" href="support.php"> Support </a><br>
                                                     
 
                                                 </div><!-- end col -->
         
                                                 <div class="col-md-4">
-                                                    <a class="text-white" href="/cs-site-web/integration.php"> Intégration </a><br>
-                                                    <a class="text-white" href="/cs-site-web/cloud_service.php"> Service Cloud </a><br>
-                                                    <a class="text-white" href="/cs-site-web/security.php"> Sécurité </a><br>
-                                                    <a class="text-white" href="/cs-site-web/data.php"> Données et IA</a><br>
+                                                    <a class="text-white" href="integration.php"> Intégration </a><br>
+                                                    <a class="text-white" href="cloud_service.php"> Service Cloud </a><br>
+                                                    <a class="text-white" href="security.php"> Sécurité </a><br>
+                                                    <a class="text-white" href="data.php"> Données et IA</a><br>
                                                     
 
                                                 </div><!-- end col -->
         
                                                 <div class="col-md-4">
-                                                    <a class="text-white" href="/cs-site-web/about.php"> A propos de nous </a> <br>
-                                                    <a class="text-white" href="/cs-site-web/modermwork.php">Travail avec modernité</a> <br>
-                                                    <a class="text-white" href="/cs-site-web/powerplateform.php"> Plateforme de puissance </a> <br>
-                                                    <a class="text-white" href="/cs-site-web/software.php"> Développement de logiciel </a> <br>
+                                                    <a class="text-white" href="about.php"> A propos de nous </a> <br>
+                                                    <a class="text-white" href="modermwork.php">Travail avec modernité</a> <br>
+                                                    <a class="text-white" href="powerplateform.php"> Plateforme de puissance </a> <br>
+                                                    <a class="text-white" href="software.php"> Développement de logiciel </a> <br>
                                                     
                                                 </div><!-- end col -->
                                             </div><!-- end row -->
